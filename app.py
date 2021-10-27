@@ -47,11 +47,6 @@ def get_all_contries():
 
 def add_to_dataframe(list_of_countries):
     df = pd.DataFrame(list_of_countries, columns=['Region', 'City Name', 'Languages'])
-    # df = df.append({
-    #     'Region': region,
-    #     'City Name': country,
-    #     'Languages': langugaes
-    # }, ignore_index=True)
 
     return df
 
