@@ -32,3 +32,5 @@ Once the installation steps have been completed, proceed to execute the python f
 5. Once the table with the required information has been created, the total time, average time, minimum time and maximum execution time are calculated.
 6. Once the times have been calculated, they are inserted into the sqlite database in the regions table, previously created in step 1.
 7. The dataframe created is exported in a .json file which contains the name data.json and will be stored in the path "exports"
+
+![diagrama_zinobe](https://user-images.githubusercontent.com/37084605/139457303-b591b229-63d0-4be7-b908-ee32fc2661f9.png)
