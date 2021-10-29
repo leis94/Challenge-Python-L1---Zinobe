@@ -146,4 +146,3 @@ cython_debug/
 
 
 venv/
-exports/data.json
